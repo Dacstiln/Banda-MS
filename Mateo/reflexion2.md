@@ -1,5 +1,5 @@
 # Actividad 2 — El primer acto del diseñador
-**Estudiante:** Ángel Mateo Delgado
+**Estudiante:** Angel Mateo Delgado
 
 ![Foto de Ángel Mateo Delgado](foto.png)
 
