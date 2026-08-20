@@ -1,7 +1,7 @@
 # Actividad 2 — El primer acto del diseñador
 **Estudiante:** Ángel Mateo Delgado
 
-![Foto de Ángel Mateo Delgado](foto.PNG)
+![Foto de Ángel Mateo Delgado](foto.png)
 
 ## Mis intereses y experiencias previas
 Mis intereses en el ámbito de los videojuegos se centran principalmente en aquellos que cuentan con una buena jugabilidad y un diseño sólido. En cuanto a géneros, me atraen de forma especial los juegos de gestión y administración de recursos, así como los de aventura, entre otros.
