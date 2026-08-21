@@ -19,3 +19,4 @@ Somos un equipo de estudiantes de Ingeniería de Software apasionados por la tec
   
 * [Angel Mateo Delgado](./Mateo/)
 * [Diego Alexander Cárdenas Sánchez](./Diego/)
+* [Julio César Del Toro Mojarro](./Toro/)
