@@ -1,6 +1,6 @@
 # Reflexión Individual: Rol como Diseñador de Videojuegos
 
-![Foto de Perfil](./foto_perfil.jpg)
+![Foto de Perfil](Toro/20260315_105457.jpg)
 *Julio del Toro — Estudiante de Ingeniería de Software*
 
 ---
