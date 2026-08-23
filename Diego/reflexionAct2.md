@@ -1,5 +1,8 @@
 ## Reflexión individual
 
+![Foto](fotoyo.png)
+
+
 **Tus intereses y experiencias previas relacionadas con videojuegos o desarrollo.**
 
 Juego videojuegos desde niño y de varios tipos, como acción, aventura, RPG, gacha, shooters, plataformas, simulación, deportes y terror, entre otros. Así que puedo decir que me gustan mucho los videojuegos y tengo experiencia jugando diferentes géneros.
