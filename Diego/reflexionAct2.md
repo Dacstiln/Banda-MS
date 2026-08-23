@@ -1,6 +1,6 @@
 ## Reflexión individual
 
-![Foto](fotoyo.pjeg)
+![Foto](fotoyo.jpeg)
 
 
 **Tus intereses y experiencias previas relacionadas con videojuegos o desarrollo.**
