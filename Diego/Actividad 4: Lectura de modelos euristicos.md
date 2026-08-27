@@ -16,4 +16,4 @@ Estos modelos pueden utilizarse durante el desarrollo para revisar si las mecán
 
 ## Conclusión individual
 
-Después de conocer GAP y PLAY, entendí que un videojuego no funciona únicamente por ser divertido. También es importante que enseñe correctamente sus mecánicas, permita al jugador desarrollar sus habilidades y mantenga un desafío adecuado. Los modelos ayudan a analizar estos aspectos de manera más estructurada y pueden servir como guía durante el diseño, aunque no sustituyen las pruebas con jugadores reales. :contentReference[oaicite:2]{index=2}
+Después de conocer GAP y PLAY, entendí que un videojuego no funciona únicamente por ser divertido. También es importante que enseñe correctamente sus mecánicas, permita al jugador desarrollar sus habilidades y mantenga un desafío adecuado. Los modelos ayudan a analizar estos aspectos de manera más estructurada y pueden servir como guía durante el diseño, aunque no sustituyen las pruebas con jugadores reales.
