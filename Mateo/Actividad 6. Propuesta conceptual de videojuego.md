@@ -1,4 +1,4 @@
-**Nombre:** [Angel Mateo Delgado Cortes]  
+**Nombre:** Angel Mateo Delgado Cortes 
 **Fecha:** 28 de agosto de 2026  
 ---
 
