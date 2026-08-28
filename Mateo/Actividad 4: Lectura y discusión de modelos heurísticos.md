@@ -1,6 +1,6 @@
 # Actividad 4: Lectura y discusión de modelos heurísticos
 
-**Nombre:** [Angel Mateo Delgado Cortes]  
+**Nombre:** Angel Mateo Delgado Cortes
 **Fecha:** 28 de agosto de 2026  
 
 ---
