@@ -2,7 +2,6 @@
 
 **Nombre:** [Angel Mateo Delgado Cortes]  
 **Fecha:** 28 de agosto de 2026  
-**Documento de trabajo:** Análisis individual y conclusiones del equipo  
 
 ---
 
